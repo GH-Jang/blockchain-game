@@ -1,6 +1,10 @@
 # 블록체인 채굴 게임 v2.0
 
-호서대학교 디지털금융경영학과 블록체인 실습 자료의 웹 구현체.
+호서대학교 디지털금융경영학과 블록체인 실습 목적으로 준비한 블록체인 채굴 게임
+
+Professor J Scott Christianson의 blockchain game을 한국어로 변환한 내용임을 밝힙니다.
+https://christiansonjs.com/blockchain-game/
+
 
 ## 핵심 기능
 
